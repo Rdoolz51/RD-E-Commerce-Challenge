@@ -3,6 +3,9 @@
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 ## Project Description
+[Video Walkthrough - Schema Creation](https://youtu.be/JzA9wEDeuzY)
+
+[Video Walkthrough](https://youtu.be/-RFuCNf7_6Y)
 
 The goal of this project was to create models representing tables in a database. Then associate those models to each other using sequelize. From there, I made CRUD routes for each of the models and tested them using insomnia.
 
